@@ -96,6 +96,8 @@ def on_message(self, msg):
             LAST = data
         # This prints out the current fragment that we are working on
         print(data['results'][0]['alternatives'][0]['transcript'])
+        with open('outext.txt', 'w') as output:
+           output.writelines(data['results'][0]['alternatives'][0]['transcript'])
 
 
 def on_error(self, error):
