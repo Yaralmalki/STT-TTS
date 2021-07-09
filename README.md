@@ -7,22 +7,19 @@ TTS --> Text To Speech
 
 STT have :
 
-STT.mp4
+* STT.mp4
  
-outext.txt
+* outext.txt
 
-transcribe.py
+* transcribe.py
+
 TTS have :
 
-TtS.py
+* TtS.py
  
-audio.mp3
+* audio.mp3
  
-tex.txt
-
-Live speech
-
-![image](https://user-images.githubusercontent.com/71742682/125001892-8c1cf400-e008-11eb-8668-a2d811bbe5c0.png)
+* tex.txt
 
 STT.mp4
 
