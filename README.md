@@ -1,9 +1,9 @@
 # STT-TTS
 Create IBM Watson service (STT,TTS )
 
-STT --> Speech To Text
+STT -> Speech To Text
 
-TTS --> Text To Speech
+TTS -> Text To Speech
 
 STT have :
 
@@ -21,6 +21,6 @@ TTS have :
  
 * tex.txt
 
-STT.mp4
+Live speech:
 
 https://user-images.githubusercontent.com/71742682/125006532-3a2d9b80-e013-11eb-8fd1-b3b81dbec3a7.mp4
